@@ -1,1 +1,1 @@
-Guard
+Guard  --rm
